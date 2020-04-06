@@ -12,13 +12,13 @@
 
 3. Mount your drive and ensure the following files/folders exist in your current directory:-
 
-* data
+      * data
+   
+      * color
 
-* color
+      * *Image_scores.pkl*
 
-* *Image_scores.pkl*
-
-* *siamese_network*
+      * *siamese_network*
 
 4. Import Required libraries
 

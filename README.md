@@ -1,5 +1,7 @@
 # Sketch Based Image Retrieval
+
 PyTorch implementation of SBIR on Sketchy Dataset
+
 [References](https://docs.google.com/document/d/1ZNiW64sF2RzK0_1ukSpTpNqKVynznE08gnnOOEvTZcg/edit?usp=sharing)
 
 

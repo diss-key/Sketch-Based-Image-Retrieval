@@ -1,5 +1,3 @@
-# Sketch Based Image Retrieval
- Python implementation of SBIR using PyTorch
 1. Download the required files mentioned below:-
 
     * [data](https://drive.google.com/open?id=1dvieTzwxRaeGt3Q0sLWKsFCBLjpk7HtD)
